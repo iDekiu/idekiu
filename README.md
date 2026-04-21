@@ -53,9 +53,9 @@ $ whoami
 
 <img src="https://github-readme-stats.vercel.app/api?username=iDekiu&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDekiu&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDekiu&layout=compact&count_private=true&langs_count=6&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" height="150"/>
 
-<img src="https://streak-stats.demolab.com?user=iDekiu&theme=terminal&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="150"/>
+<img src="https://streak-stats.demolab.com?user=iDekiu&theme=terminal&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="150"/>
 
 </div>
 
