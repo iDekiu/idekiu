@@ -51,11 +51,11 @@ $ whoami
 
 <div align="center">
 
-![Dekiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iDekiu&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=iDekiu&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" height="150"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDekiu&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDekiu&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" height="150"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iDekiu&theme=terminal&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+<img src="https://streak-stats.demolab.com?user=iDekiu&theme=terminal&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="150"/>
 
 </div>
 
