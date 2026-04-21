@@ -15,17 +15,6 @@
 
 </div>
 
----
-
-```bash
-$ whoami
-> Dekiu — Backend Developer
-> Especializado en construir sistemas robustos y escalables
-> Apasionado por la arquitectura de software y el código limpio
-```
-
----
-
 ## `[ STACK ]`
 
 ### 🖥️ Backend
@@ -45,8 +34,6 @@ $ whoami
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
-
 ## `[ STATS ]`
 
 <div align="center">
@@ -62,6 +49,6 @@ $ whoami
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=iDekiu&color=00FF41&style=flat-square&label=visitors)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=iDekiu&color=00FF41&style=flat-square&label=visitors)
 </div>
